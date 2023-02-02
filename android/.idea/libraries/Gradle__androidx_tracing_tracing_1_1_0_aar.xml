@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.tracing:tracing:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/87def6e2f368a548bd627f1e462ca7d3/jetified-tracing-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/87def6e2f368a548bd627f1e462ca7d3/jetified-tracing-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/87def6e2f368a548bd627f1e462ca7d3/jetified-tracing-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/87def6e2f368a548bd627f1e462ca7d3/jetified-tracing-1.1.0/res" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/87def6e2f368a548bd627f1e462ca7d3/jetified-tracing-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/87def6e2f368a548bd627f1e462ca7d3/jetified-tracing-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/androidx.tracing/tracing/1.1.0/6982a4780a1dbaadb32b1422841134f25d146c9d/tracing-1.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/androidx.tracing/tracing/1.1.0/6982a4780a1dbaadb32b1422841134f25d146c9d/tracing-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

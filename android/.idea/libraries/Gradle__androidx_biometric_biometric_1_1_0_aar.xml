@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.biometric:biometric:1.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/44ab6804b80638410c6c0827d4445946/biometric-1.1.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/44ab6804b80638410c6c0827d4445946/biometric-1.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/44ab6804b80638410c6c0827d4445946/biometric-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/44ab6804b80638410c6c0827d4445946/biometric-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/44ab6804b80638410c6c0827d4445946/biometric-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/44ab6804b80638410c6c0827d4445946/biometric-1.1.0/res" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/44ab6804b80638410c6c0827d4445946/biometric-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/44ab6804b80638410c6c0827d4445946/biometric-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/androidx.biometric/biometric/1.1.0/150ff7f1122d0f9f8b0c222334bbd3b7aa82c7f/biometric-1.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/androidx.biometric/biometric/1.1.0/150ff7f1122d0f9f8b0c222334bbd3b7aa82c7f/biometric-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/pnd004/Music/MobileApp/UTCwallet/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/pnd004/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/3aeebd481c4b979f4aaf1422ab700cb2/appcompat-1.4.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/pnd004/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/e596bd84a87a4cbdcf9d545f7eacbd1e/core-1.7.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

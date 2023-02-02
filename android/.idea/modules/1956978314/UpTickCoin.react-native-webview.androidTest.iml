@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":react-native-webview:androidTest" external.linked.project.path="$MODULE_DIR$/../../../../node_modules/react-native-webview/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="classpath">
+              <args>
+                <arg>$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/948b56b9163233bcf24cf1aebe186b75/jetified-react-native-0.71.0-rc.0-debug-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/b138d5304f77e24036caa93f19fec4ce/appcompat-1.4.1-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/c1918817471e25df839561386d031093/jetified-appcompat-resources-1.4.1-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/35b46f3e2564db7760ce2592a6c76d56/vectordrawable-animated-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/d474a28a4ef9844c5e4b20784aec660d/vectordrawable-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/f7f50e1568c7b08bf9a4baaa6a266ccd/fragment-1.3.6-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/1e8dd8d2da163fac4c89f7d05af22917/swiperefreshlayout-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/a0329f5d09f65a504077e9556c830c5a/jetified-activity-1.2.4-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/beb15cfc3dcfdddea244584c283f93f1/drawerlayout-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/f16d1bc368adf70b8a0b0e8176dc8a42/viewpager-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/c51665f94972c2091b1697894912b5ce/loader-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/25ebc8b2ed22ed73e87a74b9b43e8c37/customview-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/2de1ded80c6bb154575bf4f4bee1be21/core-1.7.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/43db63aaf60ea3f0b0f07507e6f4d6df/versionedparcelable-1.1.1-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/57140246b9d7ab0868db74ab4ef12c11/cursoradapter-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/76ac43e5c4a256577a73efc4030dc6e6/jetified-lifecycle-viewmodel-savedstate-2.3.1-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/e58346e204bdccb1bdf81637c3d159c7/jetified-savedstate-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/fa130b23f40cfcce25fb74ed3f165bfa/interpolator-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/11425b0e639b5e03ee2b2c2e567a4487/lifecycle-runtime-2.4.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/69a481ff99ab2b654699ff3f521accda/lifecycle-viewmodel-2.3.1-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/41e2b1e310579fa3b937deb4749c7e1a/lifecycle-livedata-2.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/e1f3f154eebe814c8fa41d4355de147f/lifecycle-livedata-core-2.3.1-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.4.0/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.4.0.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/2d91e7a0706d6ea1740760968a69e47c/core-runtime-2.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/142a1f7396f36613d95da44d869c0797/jetified-annotation-experimental-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/58ecdefd6db2422e41032cad31365ff1/jetified-tracing-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/866205af17365d75914a96f06a3e44ba/jetified-autofill-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/922103f290f8ac21013523b8a12d71b2/jetified-fbjni-0.3.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/2a08ecdc36abbaa53391783b044ad852/jetified-soloader-0.10.4-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/2c3b67f3539790202143a6e8793e8a78/jetified-nativeloader-0.10.4.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/2ee8370c28e3be7f4c67359a1056b09b/jetified-fresco-2.5.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/d78f8f8b758b061fdf0c8eabe36c3a72/jetified-fbcore-2.5.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/5db474a8ecdc565b16b3242297e50e17/jetified-annotation-0.10.4.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/4f9763a53c82d556c4edb9b9d020dcb0/jetified-ui-common-2.5.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/b884322b29319b154d7207613db6325a/jetified-drawee-2.5.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/9ac1c6c514da46e0f1b8fce616a6e424/jetified-imagepipeline-2.5.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/256e42d9ae98ad06f0b863bc21de0ead/jetified-imagepipeline-base-2.5.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/db69f14d9733e740509e8ad41326f1f9/jetified-infer-annotation-0.18.0.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/22d45a7d43efa6b9529b137809467dfc/jetified-jsr305-3.0.2.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/f0c13a8b7904f2e14891e58fbf90877b/jetified-kotlin-annotations-jvm-1.3.72.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/68dda82ab9b5b59b9cecb230d43d1c2d/jetified-imagepipeline-native-2.5.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/5d0de3af4e082b02b501275f8a9582f7/jetified-memory-type-ashmem-2.5.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/c922146af3971ed784d1c8fc6ff70787/jetified-memory-type-native-2.5.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/9a7351537358277d2c6a24477e69d573/jetified-memory-type-java-2.5.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/f1d57d04e6e4f530091c8c44d89c3350/jetified-nativeimagefilters-2.5.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/3ee8b2e65898776e553aeec18625c9f9/jetified-nativeimagetranscoder-2.5.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/de5ec06b9c842b529f5c175db6c6924c/jetified-imagepipeline-okhttp3-2.5.0-api.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/919db0ff1a9cbe0700e6f5ed6a53c995/jetified-okhttp-urlconnection-4.9.2.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/4a8abe59e594172ad07fbd76cf444611/jetified-okhttp-4.9.2.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/caebb517a338df5a6fec02e45d9d3454/jetified-okio-jvm-2.9.0.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/bbe64d757289d178f000992f4ab3090b/jetified-kotlin-stdlib-jdk8-1.6.10.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/bea6542b5baafb6575d59a50dc4ea4b8/jetified-kotlin-stdlib-jdk7-1.6.10.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/40340d0266c697f483e4d8d82154afae/jetified-kotlin-stdlib-1.6.10.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/7c6d283045803916ed0ac031f5ca382c/jetified-annotations-13.0.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/9c17178342127ce37680d07133a88d55/jetified-kotlin-stdlib-common-1.6.10.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/08311b183e489eb24caabd738a0ad7ba/jetified-proguard-annotations-1.19.0.jar</arg>
+                <arg>$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/b3350e885034c66634fc2dbbc94420bc/jetified-javax.inject-1.jar</arg>
+                <arg>$USER_HOME$/Android/Sdk/platforms/android-31/android.jar</arg>
+                <arg>$USER_HOME$/Android/Sdk/build-tools/29.0.2/core-lambda-stubs.jar</arg>
+              </args>
+            </stringArg>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/tmp/kotlin-classes/debugAndroidTest" />
+            <stringArg name="jvmTarget" arg="1.8" />
+            <stringArg name="moduleName" arg="react-native-webview_debug" />
+            <stringArg name="apiVersion" arg="1.6" />
+            <stringArg name="languageVersion" arg="1.6" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="friendPaths">
+              <args>
+                <arg>$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/tmp/kotlin-classes/debug</arg>
+                <arg>$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/intermediates/javac/debug/classes</arg>
+                <arg>$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginClasspaths" />
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/main/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/debug/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/androidTest/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/androidTest" />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/androidTestDebug" />
+    <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="UpTickCoin.react-native-webview.main" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.soloader:nativeloader:0.10.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.soloader:annotation:0.10.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.infer.annotation:infer-annotation:0.18.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-annotations-jvm:1.3.72" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okhttp3:okhttp-urlconnection:4.9.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okhttp3:okhttp:4.9.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okio:okio:2.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.yoga:proguard-annotations:1.19.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.react:react-native:0.71.0-rc.0:debug@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat:1.4.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat-resources:1.4.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment:1.3.6@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity:1.2.4@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.7.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.3.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.3.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.tracing:tracing:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.autofill:autofill:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fbjni:fbjni:0.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.soloader:soloader:0.10.4@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:fresco:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:fbcore:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:ui-common:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:drawee:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:imagepipeline:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:imagepipeline-base:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:imagepipeline-native:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:memory-type-ashmem:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:memory-type-native:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:memory-type-java:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:nativeimagefilters:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:nativeimagetranscoder:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:imagepipeline-okhttp3:2.5.0@aar" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="UpTickCoin.react-native-webview.main" />
+</module>

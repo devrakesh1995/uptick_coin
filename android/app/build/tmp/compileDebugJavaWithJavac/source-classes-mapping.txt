@@ -1,0 +1,14 @@
+com/daikifintech/MainApplication.java
+ com.UpTickCoin.MainApplication
+ com.UpTickCoin.MainApplication$1
+com/daikifintech/MainActivity.java
+ com.UpTickCoin.MainActivity
+com/daikifintech/ReactNativeFlipper.java
+ com.UpTickCoin.ReactNativeFlipper
+ com.UpTickCoin.ReactNativeFlipper$1
+ com.UpTickCoin.ReactNativeFlipper$2
+ com.UpTickCoin.ReactNativeFlipper$2$1
+com/UpTickCoin/BuildConfig.java
+ com.UpTickCoin.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

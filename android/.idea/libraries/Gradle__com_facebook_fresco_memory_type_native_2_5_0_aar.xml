@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:memory-type-native:2.5.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/57e36e961f9ae77e71b6ac55efd7d119/jetified-memory-type-native-2.5.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/57e36e961f9ae77e71b6ac55efd7d119/jetified-memory-type-native-2.5.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/57e36e961f9ae77e71b6ac55efd7d119/jetified-memory-type-native-2.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/57e36e961f9ae77e71b6ac55efd7d119/jetified-memory-type-native-2.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/com.facebook.fresco/memory-type-native/2.5.0/edfa18f773d7c5cae02e680d33d66febff824e11/memory-type-native-2.5.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/com.facebook.fresco/memory-type-native/2.5.0/edfa18f773d7c5cae02e680d33d66febff824e11/memory-type-native-2.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/com.facebook.fresco/memory-type-native/2.5.0/fa934a92fc3993f7b86da1419700fc7aa36e12f6/memory-type-native-2.5.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/com.facebook.fresco/memory-type-native/2.5.0/fa934a92fc3993f7b86da1419700fc7aa36e12f6/memory-type-native-2.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

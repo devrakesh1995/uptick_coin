@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native:0.71.0-rc.0:debug@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/374b1998cf62540b4f6ad308a304fbf3/jetified-react-native-0.71.0-rc.0-debug/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/374b1998cf62540b4f6ad308a304fbf3/jetified-react-native-0.71.0-rc.0-debug/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/374b1998cf62540b4f6ad308a304fbf3/jetified-react-native-0.71.0-rc.0-debug/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/374b1998cf62540b4f6ad308a304fbf3/jetified-react-native-0.71.0-rc.0-debug/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/374b1998cf62540b4f6ad308a304fbf3/jetified-react-native-0.71.0-rc.0-debug/res" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/374b1998cf62540b4f6ad308a304fbf3/jetified-react-native-0.71.0-rc.0-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/374b1998cf62540b4f6ad308a304fbf3/jetified-react-native-0.71.0-rc.0-debug/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/374b1998cf62540b4f6ad308a304fbf3/jetified-react-native-0.71.0-rc.0-debug/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

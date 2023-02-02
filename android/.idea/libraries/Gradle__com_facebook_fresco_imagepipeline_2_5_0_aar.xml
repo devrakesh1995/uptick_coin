@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:imagepipeline:2.5.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/1f2733feb8507adda81e6165b81d9f6f/jetified-imagepipeline-2.5.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/1f2733feb8507adda81e6165b81d9f6f/jetified-imagepipeline-2.5.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/1f2733feb8507adda81e6165b81d9f6f/jetified-imagepipeline-2.5.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/1f2733feb8507adda81e6165b81d9f6f/jetified-imagepipeline-2.5.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/1f2733feb8507adda81e6165b81d9f6f/jetified-imagepipeline-2.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/1f2733feb8507adda81e6165b81d9f6f/jetified-imagepipeline-2.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/com.facebook.fresco/imagepipeline/2.5.0/617209dd72b6c5d9a0351c867b32a329733c7dd3/imagepipeline-2.5.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/com.facebook.fresco/imagepipeline/2.5.0/617209dd72b6c5d9a0351c867b32a329733c7dd3/imagepipeline-2.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/com.facebook.fresco/imagepipeline/2.5.0/f1457918c612f7af69c3ff1667acfbfc78f267eb/imagepipeline-2.5.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/com.facebook.fresco/imagepipeline/2.5.0/f1457918c612f7af69c3ff1667acfbfc78f267eb/imagepipeline-2.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

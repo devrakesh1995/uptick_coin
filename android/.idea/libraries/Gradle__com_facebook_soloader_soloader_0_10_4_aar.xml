@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.soloader:soloader:0.10.4@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/657ffcd1de011ec346d4911860d3f35d/jetified-soloader-0.10.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/657ffcd1de011ec346d4911860d3f35d/jetified-soloader-0.10.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/657ffcd1de011ec346d4911860d3f35d/jetified-soloader-0.10.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/transforms-2/files-2.1/657ffcd1de011ec346d4911860d3f35d/jetified-soloader-0.10.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/com.facebook.soloader/soloader/0.10.4/d13dc95ba3594a987aa051fef234f40f121199f8/soloader-0.10.4-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/com.facebook.soloader/soloader/0.10.4/d13dc95ba3594a987aa051fef234f40f121199f8/soloader-0.10.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/com.facebook.soloader/soloader/0.10.4/da8d6589eb1c3f6af14189fff07210c64d3c3c4d/soloader-0.10.4-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dftc/daikicoin-ios-latest/android/caches/modules-2/files-2.1/com.facebook.soloader/soloader/0.10.4/da8d6589eb1c3f6af14189fff07210c64d3c3c4d/soloader-0.10.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
